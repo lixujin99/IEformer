@@ -19,4 +19,6 @@ This code was developed and tested with:
 
 ## running run.py
 
-git python -m torch.distributed.launch --master_port 29502 --nproc_per_node=4 run.py
+'''
+python -m torch.distributed.launch --master_port 29502 --nproc_per_node=4 run.py
+'''
