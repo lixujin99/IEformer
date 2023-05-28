@@ -11,9 +11,13 @@ This code was developed and tested with:
 - Python version 3.10.4
 - PyTorch version 1.12.0
 - CUDA version 11.2
-- tqdm version 4.64.0
-- timm version 0.6.7
-- scikit-learn version 1.1.2
+- The conda environment defined in ```environment.yml```
+
+The conda environment defined in environment.yml
+```
+conda env create -f environment.yml  # create conda env
+```
+
 
 # Experiments
 
