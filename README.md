@@ -1,9 +1,6 @@
 # IEformer
 
 
-The code is coming soon.
-
-
 # Preliminaries
 
 This code was developed and tested with:
